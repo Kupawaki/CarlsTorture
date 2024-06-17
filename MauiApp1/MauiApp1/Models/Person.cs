@@ -30,7 +30,5 @@ namespace MauiApp1.Models
             Gender = gender;
             SexuallyTransmittedDiseases = redFlags;
         }
-
-        //Methods
     }
 }
